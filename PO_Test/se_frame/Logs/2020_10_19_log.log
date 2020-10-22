@@ -1,0 +1,36 @@
+[2020-10-19 11:32:00,919 log.py-><module> line:34 [ERROR]error
+[2020-10-19 11:32:00,919 log.py-><module> line:35 [DEBUG]debug
+[2020-10-19 11:32:00,919 log.py-><module> line:36 [INFO]info
+[2020-10-19 11:32:00,919 log.py-><module> line:37 [CRITICAL]严重
+[2020-10-19 11:32:52,139 log.py-><module> line:34 [ERROR]error
+[2020-10-19 11:32:52,139 log.py-><module> line:36 [INFO]info
+[2020-10-19 11:32:52,139 log.py-><module> line:37 [CRITICAL]严重
+[2020-10-19 11:40:34,422 log.py-><module> line:39 [ERROR]error
+[2020-10-19 11:40:34,422 log.py-><module> line:41 [INFO]info
+[2020-10-19 11:40:34,422 log.py-><module> line:42 [CRITICAL]严重
+[2020-10-19 23:09:09,169 base.py->findele line:17 [INFO]通过css selector定位，元素是#appd_wrap_close
+[2020-10-19 23:09:09,395 book_page.py->book_btn line:33 [ERROR]车次查询失败
+[2020-10-19 23:09:14,403 base.py->findele line:17 [INFO]通过css selector定位，元素是#inputPassengerVue > div.pasg-add > ul > li:nth-child(2) > input
+[2020-10-19 23:09:14,403 base.py->findele line:17 [INFO]通过css selector定位，元素是#inputPassengerVue > div.pasg-add > ul > li:nth-child(2) > input
+[2020-10-19 23:09:14,445 base.py->findele line:20 [ERROR]定位元素失败
+[2020-10-19 23:09:14,445 base.py->findele line:20 [ERROR]定位元素失败
+[2020-10-19 23:30:18,754 base.py->findele line:17 [INFO]通过css selector定位，元素是#appd_wrap_close
+[2020-10-19 23:30:18,790 book_page.py->book_btn line:33 [ERROR]车次查询失败
+[2020-10-19 23:30:23,797 base.py->findele line:17 [INFO]通过css selector定位，元素是#inputPassengerVue > div.pasg-add > ul > li:nth-child(2) > input
+[2020-10-19 23:30:23,797 base.py->findele line:17 [INFO]通过css selector定位，元素是#inputPassengerVue > div.pasg-add > ul > li:nth-child(2) > input
+[2020-10-19 23:30:23,835 base.py->findele line:20 [ERROR]定位元素失败
+[2020-10-19 23:30:23,835 base.py->findele line:20 [ERROR]定位元素失败
+[2020-10-19 23:34:36,308 base.py->findele line:17 [INFO]通过id定位，元素是departCityName
+[2020-10-19 23:34:38,598 base.py->findele line:17 [INFO]通过id定位，元素是arriveCityName
+[2020-10-19 23:49:38,332 base.py->findele line:17 [INFO]通过id定位，元素是departCityName
+[2020-10-19 23:49:40,478 base.py->findele line:17 [INFO]通过id定位，元素是arriveCityName
+[2020-10-19 23:49:47,612 base.py->findele line:17 [INFO]通过css selector定位，元素是#appd_wrap_close
+[2020-10-19 23:49:47,612 base.py->findele line:17 [INFO]通过css selector定位，元素是#appd_wrap_close
+[2020-10-19 23:49:47,636 book_page.py->book_btn line:33 [ERROR]车次查询失败
+[2020-10-19 23:49:47,636 book_page.py->book_btn line:33 [ERROR]车次查询失败
+[2020-10-19 23:49:52,644 base.py->findele line:17 [INFO]通过css selector定位，元素是#inputPassengerVue > div.pasg-add > ul > li:nth-child(2) > input
+[2020-10-19 23:49:52,644 base.py->findele line:17 [INFO]通过css selector定位，元素是#inputPassengerVue > div.pasg-add > ul > li:nth-child(2) > input
+[2020-10-19 23:49:52,644 base.py->findele line:17 [INFO]通过css selector定位，元素是#inputPassengerVue > div.pasg-add > ul > li:nth-child(2) > input
+[2020-10-19 23:49:52,678 base.py->findele line:20 [ERROR]定位元素失败
+[2020-10-19 23:49:52,678 base.py->findele line:20 [ERROR]定位元素失败
+[2020-10-19 23:49:52,678 base.py->findele line:20 [ERROR]定位元素失败
